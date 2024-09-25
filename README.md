@@ -14,6 +14,7 @@ venv\Scripts\activate
 
 ```bash
 pip install django
+pip install django-browser-reload
 ```
 
 ### After that: We need to install Tailwind CSS
